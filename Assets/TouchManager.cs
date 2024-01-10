@@ -4,5 +4,7 @@ using UnityEngine;
 
 public class TouchManager : MonoBehaviour
 {
-    
+    public TouchManager()
+    {
+    }
 }
